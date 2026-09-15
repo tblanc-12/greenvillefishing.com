@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Greenville Fishing blog</title>
+<link>https://greenvillefishing.com/blog/</link>
+<description>Trophy bass fishing guide in Greenville, SC</description>
+<atom:link href="https://greenvillefishing.com/feed.xml" rel="self" type="application/rss+xml"/>
+<language>en-US</language>
+<item>
+<title>Where to Fish Near Greenville, SC</title>
+<link>https://greenvillefishing.com/blog/where-to-fish-near-greenville-sc/</link>
+<guid isPermaLink="true">https://greenvillefishing.com/blog/where-to-fish-near-greenville-sc/</guid>
+<pubDate>Sat, 12 Sep 2026 12:00:00 +0000</pubDate>
+<description>The public water around Greenville, by drive time from downtown, and what swims in it.</description>
+</item>
+<item>
+<title>Sight-Fishing for Largemouth Bass: What to Expect on a Spring Trip</title>
+<link>https://greenvillefishing.com/blog/spring-sight-fishing-largemouth/</link>
+<guid isPermaLink="true">https://greenvillefishing.com/blog/spring-sight-fishing-largemouth/</guid>
+<pubDate>Fri, 11 Sep 2026 12:00:00 +0000</pubDate>
+<description>Pre-spawn, spawn, post-spawn, bluegill beds: what each stage looks like from the bank, and what to throw.</description>
+</item>
+<item>
+<title>The Reedy River in Downtown Greenville</title>
+<link>https://greenvillefishing.com/blog/reedy-river-downtown-greenville/</link>
+<guid isPermaLink="true">https://greenvillefishing.com/blog/reedy-river-downtown-greenville/</guid>
+<pubDate>Fri, 11 Sep 2026 12:00:00 +0000</pubDate>
+<description>Big redbreast, largemouth, a few big bass, and public access all along the Swamp Rabbit Trail.</description>
+</item>
+<item>
+<title>Targeting Giant Smallmouth in the Fall</title>
+<link>https://greenvillefishing.com/blog/fall-smallmouth/</link>
+<guid isPermaLink="true">https://greenvillefishing.com/blog/fall-smallmouth/</guid>
+<pubDate>Fri, 11 Sep 2026 12:00:00 +0000</pubDate>
+<description>The overlap of heavy feeding and tight wintering water is what puts the biggest smallmouth of the year in reach.</description>
+</item>
+</channel>
+</rss>

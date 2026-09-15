@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Three rings around Greenville: inside 20, 30 and 45 minutes">
+<rect width="600" height="600" fill="#EDEFE8"/>
+<circle cx="300" cy="300" r="270" fill="none" stroke="#A1A992" stroke-width="2" stroke-dasharray="6 6"/>
+<text x="300" y="52" text-anchor="middle" font-family="Roboto Condensed, Helvetica, Arial, sans-serif" font-weight="700" font-size="16" letter-spacing="1.5" fill="#525D3B">45 MINUTES</text>
+<circle cx="300" cy="300" r="190" fill="none" stroke="#A1A992" stroke-width="2" stroke-dasharray="0"/>
+<text x="300" y="132" text-anchor="middle" font-family="Roboto Condensed, Helvetica, Arial, sans-serif" font-weight="700" font-size="16" letter-spacing="1.5" fill="#525D3B">30 MINUTES</text>
+<circle cx="300" cy="300" r="110" fill="none" stroke="#A1A992" stroke-width="2" stroke-dasharray="0"/>
+<text x="300" y="212" text-anchor="middle" font-family="Roboto Condensed, Helvetica, Arial, sans-serif" font-weight="700" font-size="16" letter-spacing="1.5" fill="#525D3B">20 MINUTES</text>
+<circle cx="300" cy="300" r="7" fill="#FCBD53" stroke="#525D3B" stroke-width="2"/>
+<text x="300" y="330" text-anchor="middle" font-family="Lora, Georgia, serif" font-weight="700" font-size="20" fill="#2B2F22">Greenville</text>
+</svg>
